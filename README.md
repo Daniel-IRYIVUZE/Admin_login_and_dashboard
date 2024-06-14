@@ -38,6 +38,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Interface
+###### Login Page
+![Admin login AV fashion](https://github.com/Daniel-IRYIVUZE/Admin_login_and_dashboard/assets/139581457/4705b4de-29e0-4934-b0af-647cd6d5d0e5)
 
 ###### For Small tablets and Mobile phones
 ![Admin dashboard  AV fashion](https://github.com/Daniel-IRYIVUZE/Admin_login_and_dashboard/assets/139581457/756f3493-bdda-4d59-aabd-3a05d4efe829)
